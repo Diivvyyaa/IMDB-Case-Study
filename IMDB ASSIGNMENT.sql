@@ -22,7 +22,7 @@ SELECT COUNT(*) AS ratings_total_rows FROM ratings;
 SELECT COUNT(*) AS role_mapping_total_rows FROM role_mapping;
 -- RESULT: 15615
 
--- just added
+
 -- Q2. Which columns in the movie table have null values?
 -- Type your code below:
 
